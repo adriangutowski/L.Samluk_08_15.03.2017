@@ -29,7 +29,6 @@ void zad61()
 	}
 	dane.close();
 	wypis.close();
-	return;
 }
 
 void zad62()
@@ -56,7 +55,6 @@ void zad62()
 	}
 	dane.close();
 	wypis.close();
-	return;
 }
 
 void zad63()
@@ -94,7 +92,6 @@ void zad63()
 	}
 	dane.close();
 	wypis.close();
-	return;
 }
 
 int main()
